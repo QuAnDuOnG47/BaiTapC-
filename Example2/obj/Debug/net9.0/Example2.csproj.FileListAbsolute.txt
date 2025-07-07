@@ -1,0 +1,14 @@
+D:\BaiTapC#\Example2\bin\Debug\net9.0\Example2.exe
+D:\BaiTapC#\Example2\bin\Debug\net9.0\Example2.deps.json
+D:\BaiTapC#\Example2\bin\Debug\net9.0\Example2.runtimeconfig.json
+D:\BaiTapC#\Example2\bin\Debug\net9.0\Example2.dll
+D:\BaiTapC#\Example2\bin\Debug\net9.0\Example2.pdb
+D:\BaiTapC#\Example2\obj\Debug\net9.0\Example2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#\Example2\obj\Debug\net9.0\Example2.AssemblyInfoInputs.cache
+D:\BaiTapC#\Example2\obj\Debug\net9.0\Example2.AssemblyInfo.cs
+D:\BaiTapC#\Example2\obj\Debug\net9.0\Example2.csproj.CoreCompileInputs.cache
+D:\BaiTapC#\Example2\obj\Debug\net9.0\Example2.dll
+D:\BaiTapC#\Example2\obj\Debug\net9.0\refint\Example2.dll
+D:\BaiTapC#\Example2\obj\Debug\net9.0\Example2.pdb
+D:\BaiTapC#\Example2\obj\Debug\net9.0\Example2.genruntimeconfig.cache
+D:\BaiTapC#\Example2\obj\Debug\net9.0\ref\Example2.dll

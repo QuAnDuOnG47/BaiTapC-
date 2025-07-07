@@ -1,0 +1,14 @@
+D:\BaiTapC#\ExampleCircle\obj\Debug\net9.0\ExampleCircle.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#\ExampleCircle\obj\Debug\net9.0\ExampleCircle.AssemblyInfoInputs.cache
+D:\BaiTapC#\ExampleCircle\obj\Debug\net9.0\ExampleCircle.AssemblyInfo.cs
+D:\BaiTapC#\ExampleCircle\obj\Debug\net9.0\ExampleCircle.csproj.CoreCompileInputs.cache
+D:\BaiTapC#\ExampleCircle\bin\Debug\net9.0\ExampleCircle.exe
+D:\BaiTapC#\ExampleCircle\bin\Debug\net9.0\ExampleCircle.deps.json
+D:\BaiTapC#\ExampleCircle\bin\Debug\net9.0\ExampleCircle.runtimeconfig.json
+D:\BaiTapC#\ExampleCircle\bin\Debug\net9.0\ExampleCircle.dll
+D:\BaiTapC#\ExampleCircle\bin\Debug\net9.0\ExampleCircle.pdb
+D:\BaiTapC#\ExampleCircle\obj\Debug\net9.0\ExampleCircle.dll
+D:\BaiTapC#\ExampleCircle\obj\Debug\net9.0\refint\ExampleCircle.dll
+D:\BaiTapC#\ExampleCircle\obj\Debug\net9.0\ExampleCircle.pdb
+D:\BaiTapC#\ExampleCircle\obj\Debug\net9.0\ExampleCircle.genruntimeconfig.cache
+D:\BaiTapC#\ExampleCircle\obj\Debug\net9.0\ref\ExampleCircle.dll
