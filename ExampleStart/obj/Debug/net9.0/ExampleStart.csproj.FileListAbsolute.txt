@@ -1,0 +1,15 @@
+D:\BaiTapC#\ExampleStart\bin\Debug\net9.0\ExampleStart.exe
+D:\BaiTapC#\ExampleStart\bin\Debug\net9.0\ExampleStart.deps.json
+D:\BaiTapC#\ExampleStart\bin\Debug\net9.0\ExampleStart.runtimeconfig.json
+D:\BaiTapC#\ExampleStart\bin\Debug\net9.0\ExampleStart.dll
+D:\BaiTapC#\ExampleStart\bin\Debug\net9.0\ExampleStart.pdb
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\ExampleStart.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\ExampleStart.AssemblyInfoInputs.cache
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\ExampleStart.AssemblyInfo.cs
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\ExampleStart.csproj.CoreCompileInputs.cache
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\ExampleStart.sourcelink.json
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\ExampleStart.dll
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\refint\ExampleStart.dll
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\ExampleStart.pdb
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\ExampleStart.genruntimeconfig.cache
+D:\BaiTapC#\ExampleStart\obj\Debug\net9.0\ref\ExampleStart.dll

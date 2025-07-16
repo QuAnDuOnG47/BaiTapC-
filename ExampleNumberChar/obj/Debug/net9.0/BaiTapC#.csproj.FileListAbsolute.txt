@@ -1,0 +1,15 @@
+D:\BaiTapC#\ExampleNumberChar\bin\Debug\net9.0\BaiTapC#.exe
+D:\BaiTapC#\ExampleNumberChar\bin\Debug\net9.0\BaiTapC#.deps.json
+D:\BaiTapC#\ExampleNumberChar\bin\Debug\net9.0\BaiTapC#.runtimeconfig.json
+D:\BaiTapC#\ExampleNumberChar\bin\Debug\net9.0\BaiTapC#.dll
+D:\BaiTapC#\ExampleNumberChar\bin\Debug\net9.0\BaiTapC#.pdb
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\BaiTapC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\BaiTapC#.AssemblyInfoInputs.cache
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\BaiTapC#.AssemblyInfo.cs
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\BaiTapC#.csproj.CoreCompileInputs.cache
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\BaiTapC#.sourcelink.json
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\BaiTapC#.dll
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\refint\BaiTapC#.dll
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\BaiTapC#.pdb
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\BaiTapC#.genruntimeconfig.cache
+D:\BaiTapC#\ExampleNumberChar\obj\Debug\net9.0\ref\BaiTapC#.dll

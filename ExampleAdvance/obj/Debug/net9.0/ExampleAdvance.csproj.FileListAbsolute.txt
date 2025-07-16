@@ -1,0 +1,15 @@
+D:\BaiTapC#\ExampleAdvance\bin\Debug\net9.0\ExampleAdvance.exe
+D:\BaiTapC#\ExampleAdvance\bin\Debug\net9.0\ExampleAdvance.deps.json
+D:\BaiTapC#\ExampleAdvance\bin\Debug\net9.0\ExampleAdvance.runtimeconfig.json
+D:\BaiTapC#\ExampleAdvance\bin\Debug\net9.0\ExampleAdvance.dll
+D:\BaiTapC#\ExampleAdvance\bin\Debug\net9.0\ExampleAdvance.pdb
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\ExampleAdvance.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\ExampleAdvance.AssemblyInfoInputs.cache
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\ExampleAdvance.AssemblyInfo.cs
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\ExampleAdvance.csproj.CoreCompileInputs.cache
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\ExampleAdvance.sourcelink.json
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\ExampleAdvance.dll
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\refint\ExampleAdvance.dll
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\ExampleAdvance.pdb
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\ExampleAdvance.genruntimeconfig.cache
+D:\BaiTapC#\ExampleAdvance\obj\Debug\net9.0\ref\ExampleAdvance.dll
