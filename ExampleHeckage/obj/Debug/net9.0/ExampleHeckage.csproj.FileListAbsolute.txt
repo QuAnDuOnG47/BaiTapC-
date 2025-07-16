@@ -1,0 +1,14 @@
+D:\BaiTapC#\ExampleHeckage\bin\Debug\net9.0\ExampleHeckage.exe
+D:\BaiTapC#\ExampleHeckage\bin\Debug\net9.0\ExampleHeckage.deps.json
+D:\BaiTapC#\ExampleHeckage\bin\Debug\net9.0\ExampleHeckage.runtimeconfig.json
+D:\BaiTapC#\ExampleHeckage\bin\Debug\net9.0\ExampleHeckage.dll
+D:\BaiTapC#\ExampleHeckage\bin\Debug\net9.0\ExampleHeckage.pdb
+D:\BaiTapC#\ExampleHeckage\obj\Debug\net9.0\ExampleHeckage.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapC#\ExampleHeckage\obj\Debug\net9.0\ExampleHeckage.AssemblyInfoInputs.cache
+D:\BaiTapC#\ExampleHeckage\obj\Debug\net9.0\ExampleHeckage.AssemblyInfo.cs
+D:\BaiTapC#\ExampleHeckage\obj\Debug\net9.0\ExampleHeckage.csproj.CoreCompileInputs.cache
+D:\BaiTapC#\ExampleHeckage\obj\Debug\net9.0\ExampleHeckage.dll
+D:\BaiTapC#\ExampleHeckage\obj\Debug\net9.0\refint\ExampleHeckage.dll
+D:\BaiTapC#\ExampleHeckage\obj\Debug\net9.0\ExampleHeckage.pdb
+D:\BaiTapC#\ExampleHeckage\obj\Debug\net9.0\ExampleHeckage.genruntimeconfig.cache
+D:\BaiTapC#\ExampleHeckage\obj\Debug\net9.0\ref\ExampleHeckage.dll
