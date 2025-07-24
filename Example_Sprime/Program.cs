@@ -2,7 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hien thi so nguyen to ");
+        Console.WriteLine("Hien thi so nguyen to < 100:");
         for (var i = 2; i < 100; i++)
         {
             if (IsPrime(i))
